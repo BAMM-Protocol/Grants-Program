@@ -128,9 +128,9 @@ We will also share an external project status dashboard (WIP now) once we start 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
+| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how the new functionality works. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| **0d.** | Testing Tools | We will provide means to test all the functionality delivered with this milestone. |
 | 1. | Blockchain integration | We will integrate with a EVM-compatible blockchain to both utilize and enhance it's ecosystem. BAMM Protocol will have blockchain features, so as any dapps built on it. |
 | 2. | Smart contracts | We will develop basic smart contract for the specific blockchain we will integrate with first. The key contracts would be network node ones (node creation, node discovery) and general user ones (account creation, connecting a user to the network). |
 | 3. | Multi-chain adapter | We will build a multi-chain adapter that would allow us to operate on multiple chains through an interface that interacts with our specific chain's contracts. |
@@ -148,9 +148,9 @@ We will also share an external project status dashboard (WIP now) once we start 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
+| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how the new functionality works. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| **0d.** | Testing Tools | We will provide means to test all the functionality delivered with this milestone. |
 | 1. | Tingl messenger's mobile version launched on stores | Mobile Tingl messenger will be available on App Store and Play Market at the end of this milestone. |
 | 2. | Public validators program | We will have a public validators program allowing potential BAMM network node holders to become network's public validators. |
 | 3. | Equity-based fundraising finished | We will run equity fund-raising and finish it within this milestone. |
@@ -164,9 +164,9 @@ We will also share an external project status dashboard (WIP now) once we start 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | **0a.** | License | Apache 2.0 / GPLv3 / MIT / Unlicense |
-| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works. |
+| **0b.** | Documentation | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how the new functionality works. |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
-| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| **0d.** | Testing Tools | We will provide means to test all the functionality delivered with this milestone. |
 | 0e. | Article | We will publish an **article**/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.) |
 | 1. | Extented Tingl web3, messaging and content creation features | This deliverable will include many web3 and crypto-related features like sending crypto to a contact or paying for someone's services. It will also expand the toolkit avaiable to content creators and artists using Tingl, as well as just adding some cherries on top of the apps' communication features. |
 | 2. | Desktop Tingl app | We will release the desktop version of the Tingl messenger. It will include the newer features and will be developed using Flutter, like the mobile version. |
