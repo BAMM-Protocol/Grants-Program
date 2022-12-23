@@ -1,7 +1,11 @@
+> :christmas_tree: Please note that the review process might take longer than usual until January 6, 2023. Merry Christmas and Happy New Year!  :christmas_tree:
+
+___
+
 # Web3 Foundation Grants Program<!-- omit in toc -->
 
 <p align="center">
-  <img src="static/img/Grants_Program.png" style="width:1300px";>
+  <img src="static/img/Grants_Program.png" style="width:1300px" />
 </p>
 
 
@@ -150,7 +154,7 @@ The W3F Grants Program offers different grant levels to help you best depending 
 
 ## :pencil: Process
 
-> **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in Bitcoin, USDT (on Kusama or Polkadot), USDC/DAI (Ethereum) or aUSD (Acala). If you want to apply in **private**  and/or you need to be paid out in **fiat**, you can apply [:arrow_right: here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). Note that this is generally a slower process and imposes stricter requirements on applicants.
+> **:loudspeaker:** The process below is independent of the [level](#level_slider-levels). Payment is made in Bitcoin, USDT (on [Statemine/Statemint](https://support.polkadot.network/support/solutions/articles/65000181800-what-is-statemint-and-statemine-and-how-do-i-use-them-)), USDC/DAI (Ethereum) or aUSD (Acala). If you want to apply in **private**  and/or you need to be paid out in **fiat**, you can apply [:arrow_right: here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform). Note that this is generally a slower process and imposes stricter requirements on applicants.
 
 ### 1. Application
 
@@ -231,7 +235,7 @@ In order to be eligible for the referral bonus, the application itself must cont
 
 ### Additional information
 
-| <img src="static/img/web.png?s=50" width="50"> | <img src="static/img/twitter.png?s=50" width="50"> | <img src="static/img/medium.png?s=50" width="50"> | <img src="static/img/like.png?s=50" width="50"> | <img src="static/img/reddit.png?s=50" width="50"> | <img src="static/img/youtube-play.png?s=50" width="50"> |
+| <img src="static/img/web.png?s=50" width="50" /> | <img src="static/img/twitter.png?s=50" width="50" /> | <img src="static/img/medium.png?s=50" width="50" /> | <img src="static/img/like.png?s=50" width="50" /> | <img src="static/img/reddit.png?s=50" width="50" /> | <img src="static/img/youtube-play.png?s=50" width="50" /> |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [W3F Website](https://web3.foundation) | [W3F Twitter](https://twitter.com/web3foundation) | [W3F Medium](https://medium.com/web3foundation) | [Polkadot Wiki](https://wiki.polkadot.network/en/) | [Web 3.0 Reddit](https://www.reddit.com/r/web3) | [W3F YouTube](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) |
 
